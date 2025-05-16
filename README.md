@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Pedro Henrique França
+# 🧑‍💻 Pedro Henrique França
 
 **`Engenheiro de Software`**
 
