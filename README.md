@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software`**
 
-Ola, sou Pedro Henrique França, atualmente trabalho como Software Engineer na Topinvest | Grupo PRIMO, empresa líder na educação para certificações do mercado financeiro no Brasil, onde projeto, implemento e mantenho sistemas escaláveis ​​e resilientes.
+Olá, sou Pedro Henrique França, atualmente trabalho como Software Engineer na Topinvest | Grupo PRIMO, empresa líder na educação para certificações do mercado financeiro no Brasil, onde projeto, implemento e mantenho sistemas escaláveis ​​e resilientes.
 
 <p align="left">
     <a href="https://github.com/phpfc?tab=followers">
