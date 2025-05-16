@@ -38,15 +38,6 @@ Ola, sou Pedro Henrique França, estou atualmente atuando como Software Engineer
 
 <img 
     align="left" 
-    alt="Go" 
-    title="Go"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
-/>
-
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
